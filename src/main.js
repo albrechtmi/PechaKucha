@@ -2,7 +2,7 @@ var pechaKuchaData;
 var pechaKuchaSlideNo = 0;
 var intervalNumber;
 var seconds = 0;
-var timePerSlide = 6; //21
+var timePerSlide = 21; //21
 var startSlide = 1;
 
 function loadPechaKucha() {
