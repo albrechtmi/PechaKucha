@@ -65,7 +65,12 @@ function nextSlide() {
     var correctLength = timePerSlide - 1;
     setProgressBar(correctLength);
     document.getElementById("pechaKuchaStartImg").style.display = "";
-    document.getElementById("pechaKuchaStartImgText").style.display = "";
+
+    if(config.withText == true) {
+      document.getElementById("pechaKuchaStartImgText").style.display = "";
+    } else {
+      document.getElementById("pechaKuchaStartImgText").style.display = "none";
+    }
     return;
   }
   var slide = pechaKuchaData.slides[pechaKuchaSlideNo];

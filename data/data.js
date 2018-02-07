@@ -21,7 +21,7 @@ var sData = '{'+
 '      "textHTML": "<p><h3>Geboren 8. M&auml;rz 1985 in Z&uumlrich (Triemli)</h3>'+
 '      <h3>Aufgewachsen in Getwing (Wallis)</h3>'+
 '      <h3>Ledig</h3><h3>Mitbewohner Lancelot & Timmy<h3></p>",'+
-'      "imgWidth": "800px",'+
+'      "imgWidth": "700px",'+
 '      "imgHeight": "300px",'+
 '      "imageSrc": "images/getwing.png",'+
 '      "imageMarginTop": "0px",'+
@@ -78,8 +78,29 @@ var sData = '{'+
 '    }'+
 
 '    ,{'+
+'      "slideNo": 8,'+
+'      "title": "Werdegang Milit&auml;r",'+
+'      "textHTML": "<p>'+
+'      <H3>FLAB Rekrutenschule Radarsoldat</h3>'+
+'      <H3>Unteroffiziersschule (Zert. Teamleader & weitere Module)<H3>'+
+'      <H3>Oberwachtmeister<H3>'+
+'      <H3>Botschaftenschutz Genf (300 Personen)</h3>'+
+'      <h3>Projektarbeiten im VBS<h3>'+
+'      </p>",'+
+'      "imgWidth": "300px",'+
+'      "imgHeight": "300px",'+
+'      "imageSrc": "images/flab.jpg",'+
+'      "imageMarginTop": "0px",'+
+'      "progressBarColor": "#077714",'+
+'      "progressBarColorBackground": "#9fe0a5",'+
+'      "titleColor": "#0fba03",'+
+'      "textColor": "#0a7f02",'+
+'      "borderColor": "#0fba03"'+
+'    }'+
+
+'    ,{'+
 '      "slideNo": 6,'+
-'      "title": "Anstellungen Studium",'+
+'      "title": "Jobs w&auml;hrend Studium",'+
 '      "textHTML": "<p><H3>Diverse Praktika & Sommerjobs</h3><h3>Baugewerbe</h3><h3>Versicherung</h3><h3>Bank</h3><h3>Spital</h3><h3>Tourismus</h3><h3>Retail/Shop</h3></p>",'+
 '      "imgWidth": "400px",'+
 '      "imgHeight": "300px",'+
@@ -112,26 +133,7 @@ var sData = '{'+
 '      "borderColor": "#0fba03"'+
 '    }'+
 
-'    ,{'+
-'      "slideNo": 8,'+
-'      "title": "Werdegang Milit&auml;r",'+
-'      "textHTML": "<p>'+
-'      <H3>FLAB Rekrutenschule Radarsoldat</h3>'+
-'      <H3>Unteroffiziersschule (Zert. Teamleader & weitere Module)<H3>'+
-'      <H3>Oberwachtmeister<H3>'+
-'      <H3>Botschaftenschutz Genf (300 Personen)</h3>'+
-'      <h3>Projektarbeiten im VBS<h3>'+
-'      </p>",'+
-'      "imgWidth": "300px",'+
-'      "imgHeight": "300px",'+
-'      "imageSrc": "images/flab.jpg",'+
-'      "imageMarginTop": "0px",'+
-'      "progressBarColor": "#077714",'+
-'      "progressBarColorBackground": "#9fe0a5",'+
-'      "titleColor": "#0fba03",'+
-'      "textColor": "#0a7f02",'+
-'      "borderColor": "#0fba03"'+
-'    }'+
+
 
 '    ,{'+
 '      "slideNo": 9,'+
@@ -333,11 +335,11 @@ var sData = '{'+
 '      "slideNo": 19,'+
 '      "title": "Hobbies - offline",'+
 '      "textHTML": "<p>'+
-'      <h3>VW Golf R</h3>'+
+'      <h3>Hobby Koch</h3>'+
 '      </p>",'+
 '      "imgWidth": "500px",'+
 '      "imgHeight": "300px",'+
-'      "imageSrc": "images/golfR.jpg",'+
+'      "imageSrc": "images/mahlzeit.jpg",'+
 '      "imageMarginTop": "0px",'+
 '      "progressBarColor": "#efaa21",'+
 '      "progressBarColorBackground": "#efd592",'+
